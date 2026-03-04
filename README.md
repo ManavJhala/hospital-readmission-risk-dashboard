@@ -1,1 +1,2 @@
 # hospital-readmission-risk-dashboard
+This project builds a machine learning model to predict hospital readmission risk and visualizes the results using an interactive Tableau dashboard. The goal is to help identify patients who may be at higher risk of being readmitted within 30 days so healthcare providers can intervene earlier. The project combines SQL, Python, machine learning, and data visualization to analyze patient data and evaluate model predictions.
